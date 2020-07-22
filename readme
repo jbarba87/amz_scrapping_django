@@ -1,0 +1,5 @@
+run with:
+
+$ python3 manage.py runserver 
+
+and put the link of a product in the text field
