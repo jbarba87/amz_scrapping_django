@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#main_title{
+  width: 30%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+
+input, button{
+  display: block;
+  width: 100%;
+  padding: 20px auto;
+}
+
+#btn{
+  cursor: pointer;
+
+}
+
+#main_form{
+  padding:20px;
+  border: 1px solid black;
+  width: 60%;
+  
+  margin: 20px auto;
+  border-radius: 20px;
+
+}
+
+.buttonload {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 24px; /* Some padding */
+  font-size: 16px; /* Set a font-size */
+}
+
+/* Add a right margin to each icon */
+.fa {
+  margin-left: -12px;
+  margin-right: 8px;
+}
+
+#result {
+  justify-content: center;
+  margin: auto;
+}
+
+#result img, p {
+  width:20%;
+  padding: 5px;
+  margin: auto;
+  display:block;
+  text-align: center;
+}
+
